@@ -1,0 +1,8 @@
+LED_ON 
+//Turn the Built-in led on
+DELAY 2000 
+//Wait 2000 ms
+LED_OFF 
+//Turn the led back on
+DELAY 1000 
+//Wait another 2000 seconds
